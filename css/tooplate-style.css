@@ -671,7 +671,7 @@ b, strong {
 }
 
 .social-icon-link {
-  background: var(--dark-color);
+  background: var(--secondary-color);
   border-radius: var(--border-radius-large);
   color: var(--white-color);
   font-size: var(--copyright-font-size);
