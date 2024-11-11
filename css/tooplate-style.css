@@ -685,7 +685,7 @@ b, strong {
 }
 
 .social-icon-link:hover {
-  background: var(--secondary-color);
+  background: var(--dark-color);
   color: var(--white-color);
 }
 
