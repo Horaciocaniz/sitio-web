@@ -685,7 +685,7 @@ b, strong {
 }
 
 .social-icon-link:hover {
-  background: var(--white-color);
+  background: var(--secondary-color);
   color: var(--white-color);
 }
 
@@ -709,7 +709,7 @@ b, strong {
 }
 
 .contact-block {
-  background: var(--secondary-color);
+  background: var(--white-color);
   border-radius: var(--border-radius-medium);
   transform: rotate(8deg);
   height: 100%;
