@@ -671,9 +671,9 @@ b, strong {
 }
 
 .social-icon-link {
-  background: var(--white-color);
+  background: var(--dark-color);
   border-radius: var(--border-radius-large);
-  color: var(--dark-color);
+  color: var(--white-color);
   font-size: var(--copyright-font-size);
   display: block;
   margin: 0 3px;
@@ -702,14 +702,14 @@ b, strong {
 }
 
 .contact-block-wrap {
-  background: var(--secondary-color);
+  background: var(--white-color);
   border-radius: var(--border-radius-medium);
   padding: 0;
   min-height: 200px;
 }
 
 .contact-block {
-  background: var(--white-color);
+  background: var(--secondary-color);
   border-radius: var(--border-radius-medium);
   transform: rotate(8deg);
   height: 100%;
