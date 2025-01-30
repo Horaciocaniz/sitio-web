@@ -802,3 +802,9 @@ b, strong {
   width: 0px;
   height: 0px;
 }
+
+.socialList{
+  display: flex;
+  row-gap: 5px;
+  column-gap: 10px;
+}
